@@ -1,0 +1,1 @@
+# Program-Mengetahui-Apakah-Pemasukan-Lebih-Besar-atau-Lebih-Kecil-dari-Pengeluaran
